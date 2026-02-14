@@ -1,0 +1,66 @@
+
+models/
+
+# Data
+data/raw/
+data/labels/
+data/embeddings/
+data/graphs/
+
+# Model checkpoints
+*.pt
+*.pth
+*.bin
+*.ckpt
+
+# Pickle
+*.pkl
+
+# CSV datasets
+*.csv
+
+# Logs
+wandb/
+logs/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System
+.DS_Store
+# Data
+data/raw/
+data/labels/
+data/embeddings/
+data/graphs/
+
+# Model checkpoints
+*.pt
+*.pth
+*.bin
+*.ckpt
+
+# Pickle
+*.pkl
+
+# CSV datasets
+*.csv
+
+# Logs
+wandb/
+logs/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System
+.DS_Store
+
